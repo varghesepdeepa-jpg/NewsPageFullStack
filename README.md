@@ -7,7 +7,7 @@ A responsive React news application built with a decoupled .NET Minimal API back
 ## 🛠️ Tech Stack
 
 * **Frontend:** React (Vite), Tailwind CSS, React Router
-* **Backend:** .NET 8.0 Minimal API, C#
+* **Backend:** .NET 10.0 Minimal API, C#
 
 ---
 
